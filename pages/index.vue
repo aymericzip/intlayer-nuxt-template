@@ -2,8 +2,8 @@
 import { useSeoMeta } from "nuxt/app";
 import { getIntlayer } from "intlayer";
 import { useIntlayer, useLocale } from "vue-intlayer";
-import HelloWorld from "~/components/helloWorld/HelloWorld.vue";
-import LocaleSwitcher from "~/components/LocaleSwitcher.vue";
+import HelloWorld from "../components/helloWorld/HelloWorld.vue";
+import LocaleSwitcher from "../components/LocaleSwitcher.vue";
 
 const { nuxtLogo, intlayerLogo, title } = useIntlayer("root");
 
