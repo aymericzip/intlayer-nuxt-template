@@ -11,13 +11,13 @@
     "start:editor": "npx intlayer-editor start"
   },
   "dependencies": {
-    "intlayer": "^7.0.1",
-    "nuxt": "^3.17.1",
-    "vue": "^3.5.13",
-    "vue-intlayer": "^7.0.1"
+    "intlayer": "latest",
+    "nuxt": "^4.2.1",
+    "vue": "^3.5.24",
+    "vue-intlayer": "latest"
   },
   "devDependencies": {
-    "intlayer-editor": "^7.0.1",
-    "nuxt-intlayer": "^7.0.1"
+    "intlayer-editor": "latest",
+    "nuxt-intlayer": "latest"
   }
 }
