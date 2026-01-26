@@ -11,7 +11,8 @@
     "start:editor": "npx intlayer-editor start"
   },
   "dependencies": {
-    "intlayer": "latest",
+    "@nuxtjs/i18n": "^10.2.1",
+    "intlayer": "8.0.0-canary.5",
     "nuxt": "^3.20.1",
     "vue": "^3.5.25",
     "vue-intlayer": "latest"
